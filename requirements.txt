@@ -5,6 +5,7 @@ attrdict
 beautifulsoup4
 bencoding
 cfscrape
+cryptography
 feedparser
 flask
 google-api-python-client
